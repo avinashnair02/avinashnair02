@@ -5,7 +5,7 @@
 
 # Hi Everyone!👋 Welcome to Avinash Nair's GitHub Profile
 
-## On this page I keep all of the docs for the videos I do on my YouTube Channel
+## On this page I keep all of the Projects related to Data-science.
 
 Special thanks to Jaemin for showing me this feature (https://github.com/importdata/importdata/blob/master/README.md)
 
