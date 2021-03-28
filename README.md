@@ -4,6 +4,7 @@
 
 
 # Hi Everyone!👋 Welcome to Avinash Nair's GitHub Profile
+(https://res.cloudinary.com/importdata/image/upload/v1594310913/YT_Banner_rkjidf.png)
 
 ## On this page I will keep my projects on Data-Science.
 
