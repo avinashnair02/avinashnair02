@@ -16,23 +16,6 @@ Special thanks to Jaemin for showing me this feature (https://github.com/importd
   
   
   
-  
-  <h3 align="left">Others:</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-  <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="github" width="40" height="40"/> </a>  
-  <a href="https://www.office.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/microsoft-office-2019.png" alt="microsoft office" width="40" height="40"/> </a>  
-  <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/windows-10.png" alt="microsft windows" width="40" height="40"/> </a>  
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vsc" width="40" height="40"/> </a>  
-  <a href="https://atom.io/" target="_blank"> <img src="https://img.icons8.com/emoji/48/000000/atom-symbol-emoji.png" alt="atom" width="40" height="40"/> </a>  
-  </p>
-    
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushpakumari5117&show_icons=true&locale=en&layout=compact" alt="pushpakumari5117" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushpakumari5117&show_icons=true&locale=en" alt="pushpakumari5117" /></p>
-
-  </body>
-</html>
 
 
 
