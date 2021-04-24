@@ -6,7 +6,7 @@
 # Hi Everyone!👋Welcome to Avinash Nair's GitHub Profile
 
 
-## On this page I will keep my projects on Data-Science.
+## On this page I will keep my projects on Data-Science/Web-Devlopment.
 
 Special thanks to Jaemin for showing me this feature (https://github.com/importdata/importdata/blob/master/README.md)
 
