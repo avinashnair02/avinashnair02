@@ -9,7 +9,7 @@
 ## On this page I will keep my projects on Data-Science/Web-Devlopment.
 
 
-#### Aspiring Data Scientist
+
 
 
 
