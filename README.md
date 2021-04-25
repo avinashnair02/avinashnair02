@@ -72,3 +72,20 @@
 <img align="left" alt="Terminal" width="26px" src="https://github.com/avinashnair02/avinashnair02/blob/main/PngItem_2413971.png" />
 
 
+<img align="left" alt="Terminal" width="26px" src="https://github.com/avinashnair02/avinashnair02/blob/main/PngItem_2413971.png" />
+<img align="left" alt="hadoop" width="26px" src="https://github.com/avinashnair02/avinashnair02/blob/main/haddop.png" />
+<img align="left" alt="Docker" width="26px" src="https://github.com/avinashnair02/avinashnair02/blob/main/docker.jpeg" />
+<img align="left" alt="Tab" width="26px" src="https://github.com/avinashnair02/avinashnair02/blob/main/Tab.png" />
+<img align="left" alt="sql" width="26px" src="https://github.com/avinashnair02/avinashnair02/blob/main/Slq.png" />
+<img align="left" alt="gcp" width="26px" src="https://github.com/avinashnair02/avinashnair02/blob/main/Gcp.jpeg" />
+<img align="left" alt="Excel" width="26px" src="https://github.com/avinashnair02/avinashnair02/blob/main/Excel.png" />
+<img align="left" alt="MAc" width="26px" src="https://github.com/avinashnair02/avinashnair02/blob/main/mac.png" />
+<img align="left" alt="postman" width="26px" src="https://github.com/avinashnair02/avinashnair02/blob/main/postman.jpeg" />
+<img align="left" alt="Spark" width="26px" src="https://github.com/avinashnair02/avinashnair02/blob/main/spark.png" />
+<img align="left" alt="TEnsor" width="26px" src="https://github.com/avinashnair02/avinashnair02/blob/main/tensor.png" />
+
+
+
+
+
+
