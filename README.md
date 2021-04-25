@@ -37,13 +37,7 @@ Special thanks to Jaemin for showing me this feature (https://github.com/importd
 
 ---
   
-  
-
-
-
-**avinashnair02/avinashnair02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+ 
 
 - 🔭 I’m currently working on Real Time Data Science Project.
 - 🌱 I’m currently learning Deeplearning and its Dimentions
@@ -51,5 +45,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: Drop me a mail @: avinashnair02@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I can work as long as i want
--->
+- ⚡ Fun fact: I can work as long as i want.
