@@ -37,7 +37,7 @@
 
 
 
-#![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinashnair02&show_icons=true)
+![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinashnair02&show_icons=true)
 
 ### Languages and Tools:
 
