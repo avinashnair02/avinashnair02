@@ -79,6 +79,7 @@
 <img align="left" alt="postman" width="26px" src="https://github.com/avinashnair02/avinashnair02/blob/main/postman.jpeg" />
 <img align="left" alt="Spark" width="26px" src="https://github.com/avinashnair02/avinashnair02/blob/main/spark.png" />
 <img align="left" alt="TEnsor" width="26px" src="https://github.com/avinashnair02/avinashnair02/blob/main/tensor.png" />
+<img align="left" alt="TEnsor" width="26px" src="https://github.com/avinashnair02/avinashnair02/blob/main/ceddf5ac580a247b9ddbcc6a260e6f8f.png" />
 
 
 
