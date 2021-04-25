@@ -11,11 +11,7 @@
 
 #### Aspiring Data Scientist
 
-RESIDENT GEEK📱| WARRIOR| DATA SCIENCE|MACHINE-LEARNING|DEEP-LEARNING|COMPUTER-VISION|VLOGGER| Life is Travel🌍, |Nutrition🍎&Camera 📷 📍 India 🇮🇳
 
-Skills: Python|Machine Learning|Deep Learning| NLP| 
-
-- 🔭 I’m currently working on this page. 
 
 
 
