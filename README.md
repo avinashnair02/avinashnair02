@@ -31,7 +31,7 @@
 - 🔭 I’m currently working on Real Time Data Science Project.
 - 🌱 I’m currently learning Deeplearning and its Dimentions
 - 👯 I’m looking to collaborate on Discord
-- 💬 Ask me about ...
+- 💬 Ask me about Technology
 - 📫 How to reach me: Drop me a mail @: avinashnair02@gmail.com
 - ⚡ Fun fact: I can work as long as i want.
 
