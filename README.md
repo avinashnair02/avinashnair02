@@ -12,6 +12,22 @@ Special thanks to Jaemin for showing me this feature (https://github.com/importd
 
 
 
+### Hi there 👋, Aviash Nair
+#### Aspiring Data Scientist 
+![Aspiring Data Scientist ](https://media-exp1.licdn.com/dms/image/C4D16AQFg6OL56NIVUg/profile-displaybackgroundimage-shrink_350_1400/0/1599970659833?e=1625097600&v=beta&t=Luf4SHmDO3NPdTCRRZCe5iHd81DbCd26OSDzt4GwuvA)
+
+RESIDENT GEEK📱| WARRIOR| DATA SCIENCE|MACHINE-LEARNING|DEEP-LEARNING|COMPUTER-VISION|VLOGGER| Life is Travel🌍, |Nutrition🍎&Camera 📷 📍 India 🇮🇳
+
+Skills: Python|Machine Learning|Deep Learning| NLP| 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
+
 ![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinashnair02&show_icons=true)
 
 
