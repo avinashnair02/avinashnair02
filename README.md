@@ -23,7 +23,7 @@
 
 
 ### Connect with me:
-<a href="https://www.youtube.com/channel/UCdpwSFqh93iPtyaGXJq3wIQ">
+<a href="https://avinashnair02.github.io/contact/">
  <img src='https://github.com/avinashnair02/avinashnair02/blob/main/c6770e5bfda14cb68672a049acf41b28-2.png' alt='website'  width="100">
 </a> 
 <a href="https://www.youtube.com/channel/UCdpwSFqh93iPtyaGXJq3wIQ">
