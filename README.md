@@ -24,7 +24,7 @@
 
 ### Connect with me:
 <a href="https://www.youtube.com/channel/UCdpwSFqh93iPtyaGXJq3wIQ">
- <img src='https://github.com/avinashnair02/avinashnair02/blob/main/c6770e5bfda14cb68672a049acf41b28.png' alt='website' height='45'>
+ <img src='https://github.com/avinashnair02/avinashnair02/blob/main/c6770e5bfda14cb68672a049acf41b28.png' alt='website'  width="100">
 </a> 
 <a href="https://www.youtube.com/channel/UCdpwSFqh93iPtyaGXJq3wIQ">
  <img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;
