@@ -1,36 +1,4 @@
 
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@avinashnair02 
-avinashnair02
-/
-avinashnair02
-1
-10
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-avinashnair02/github.html
-@avinashnair02
-avinashnair02 Add files via upload
-Latest commit 138261f in 21 seconds
- History
- 1 contributor
-86 lines (50 sloc)  4.79 KB
-  
-
 
 
 ![Aspiring Data Scientist ](https://media-exp1.licdn.com/dms/image/C4D16AQFg6OL56NIVUg/profile-displaybackgroundimage-shrink_350_1400/0/1599970659833?e=1625097600&v=beta&t=Luf4SHmDO3NPdTCRRZCe5iHd81DbCd26OSDzt4GwuvA)
