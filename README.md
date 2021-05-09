@@ -1,5 +1,5 @@
 
-<--
+<! --
 
 ![Aspiring Data Scientist ](https://media-exp1.licdn.com/dms/image/C4D16AQFg6OL56NIVUg/profile-displaybackgroundimage-shrink_350_1400/0/1599970659833?e=1625097600&v=beta&t=Luf4SHmDO3NPdTCRRZCe5iHd81DbCd26OSDzt4GwuvA)
 
@@ -79,7 +79,8 @@
 <img align="left" alt="TEnsor" width="26px" src="https://github.com/avinashnair02/avinashnair02/blob/main/tensor.png" />
 <img align="left" alt="TEnsor" width="26px" src="https://github.com/avinashnair02/avinashnair02/blob/main/ceddf5ac580a247b9ddbcc6a260e6f8f.png" />
 
--->
+
+--> 
 
 
 
