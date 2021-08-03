@@ -1,5 +1,5 @@
 
-<!-- 
+
 ![Aspiring Data Scientist ](https://media-exp1.licdn.com/dms/image/C4D16AQFg6OL56NIVUg/profile-displaybackgroundimage-shrink_350_1400/0/1599970659833?e=1625097600&v=beta&t=Luf4SHmDO3NPdTCRRZCe5iHd81DbCd26OSDzt4GwuvA)
 
 # Hi Everyone!👋Welcome to Avinash Nair's GitHub Profile
@@ -82,4 +82,4 @@
 
 
 
--->
+
