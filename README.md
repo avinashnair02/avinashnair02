@@ -45,7 +45,7 @@
  <img align="right" src="http://inews.gtimg.com/newsapp_match/0/10903293331/0" height="250">
 
 - 🔭 I’m currently working on Real Time Data Science Project.
-- 🌱 I’m currently learning Deeplearning and its Dimentions
+- 🌱 I’m currently learning Deeplearning and its Connect Fields
 - 👯 I’m looking to collaborate on Discord.
 - 💬 Ask me about Computers.
 - 📫 How to reach me: avinashnair02@gmail.com.
