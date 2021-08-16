@@ -25,9 +25,6 @@ Aspiring Data Scientist
 
   
  <img align="right" src="http://inews.gtimg.com/newsapp_match/0/10903293331/0" height="250">
-
-- 🔭 I’m currently working on Real Time Data Science Project.
-- 🌱 I’m currently learning Deeplearning and its Connect Fields
 - 👯 I’m looking to collaborate on Discord.
 - 💬 Ask me about Computers.
 - 📫 How to reach me: avinashnair02@gmail.com.
@@ -41,6 +38,9 @@ Aspiring Data Scientist
 
 ### Languages and Tools:
 
+
+- 🔭 I’m currently working on Real Time Data Science Project.
+- 🌱 I’m currently learning Deeplearning and its Connect Fields
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
