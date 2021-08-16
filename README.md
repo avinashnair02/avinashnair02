@@ -1,4 +1,4 @@
-<!-- 
+
 
 ![Aspiring Data Scientist ](https://media-exp1.licdn.com/dms/image/C4D16AQFg6OL56NIVUg/profile-displaybackgroundimage-shrink_350_1400/0/1599970659833?e=1625097600&v=beta&t=Luf4SHmDO3NPdTCRRZCe5iHd81DbCd26OSDzt4GwuvA)
 
@@ -51,7 +51,7 @@
 - 📫 How to reach me: avinashnair02@gmail.com.
 - ⚡ Fun fact: I can work as long as i want.
 
-
+<!-- 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashnair02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinashnair02&show_icons=true)
