@@ -1,16 +1,7 @@
-[Aspiring Data Scientist ]
-
+Aspiring Data Scientist 
 # Hi Everyone!👋Welcome to Avinash Nair's GitHub Profile
 
-
 ## On this page I will keep my projects on Data-Science/Web-Devlopment.
-
-
-
-
-
-
-
 
 ### Connect with me:
 <a href="https://avinashnair02.github.io/">
