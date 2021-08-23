@@ -25,7 +25,7 @@ Aspiring Data Scientist
  </a> 
 
   
- <img align="right" src="http://inews.gtimg.com/newsapp_match/0/10903293331/0" height="250">
+
 
 - 👯 I’m looking to collaborate on Discord.
 - 💬 Ask me about Computers.
@@ -39,6 +39,8 @@ Aspiring Data Scientist
 
 
 ### Languages and Tools:
+  
+ <img align="right" src="http://inews.gtimg.com/newsapp_match/0/10903293331/0" height="250">
 
 
 - 🔭 I’m currently working on Real Time Data Science Project.
